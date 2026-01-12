@@ -1,0 +1,2 @@
+# Simulation-of-Quantum-Wave-Packet-using-the-Split-Step-Fourier-Method
+Studying the time evolution of a quantum mechanical wave packet using Hamiltonian dynamics, deriving the numerical formulation of the split-step Fourier method for solving the time- dependent Schrodinger equation and implementing the split-step Fourier algorithm to simulate wave packet propagation in one-dimensional potentials.
